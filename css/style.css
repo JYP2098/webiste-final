@@ -508,8 +508,8 @@ br {
 @media only screen and (max-width: 1200px) {
     
     .fa-facebook-square,
-    .fa-twitter-square,
-    .fa-google-plus-square,
+    .fa-github,
+    .fa-linkedin-square,
     .fa-instagram {
         font-size: 43px;
     }
@@ -527,21 +527,12 @@ br {
         right: 135px;
     }
     
-    .monka-img,
-    .mario-img,
-    .monice-img {
-        width: 85px;
-        height: 85px;
-    }
     
-    .testimonials-hr {
-        width: 210px;
-    }
     
     
     .fa-facebook-square,
-    .fa-twitter-square,
-    .fa-google-plus-square,
+    .fa-github,
+    .fa-linkedin-square,
     .fa-instagram {
         font-size: 20px;
     }
@@ -568,20 +559,14 @@ br {
     }
     
     
-     .monka-img,
-    .mario-img,
-    .monice-img {
-        width: 65px;
-        height: 65px;
-    }
     
     .num {
         margin-left: 0;
     }
     
      .fa-facebook-square,
-    .fa-twitter-square,
-    .fa-google-plus-square,
+    .fa-github,
+    .fa-linkedin-square,
     .fa-instagram {
         font-size: 30px;
     }
@@ -621,13 +606,11 @@ br {
 
 
 
-
-/*THIS IS NOT MENTIONED IN THE COURSE AS I'VE FOUND THE BUG AFTER PUBLISHING. IT CHANGES THE PADDING OF THE BLACK DIV AT THIS CURRENT HEIGHT*/
 @media only screen and (max-height: 865px) {
     .wall-sticker {
         font-size: 5rem;
         padding: 7rem 20rem 2rem 3rem !important;
     }
 }
-/*THIS IS NOT MENTIONED IN THE COURSE AS I'VE FOUND THE BUG AFTER PUBLISHING. IT CHANGES THE PADDING OF THE BLACK DIV AT THIS CURRENT HEIGHT*/
+
 
