@@ -274,15 +274,20 @@ body {
     
 }
 
+#section-cards-parallax {
+    text-align: center;
+    background: url(../img/pro.jpg) center repeat fixed;
+    padding: 140px 0;
+    background-size: cover;
+    color: white;
+    
+}
+
 
     
  /* SECTION CARDS */   
     
-#section-cards{
-    background: url(../img/pro.jpg) center;
-    background-size: cover;
 
-}
 #section-cards h2 {
     text-align: center;
 }
